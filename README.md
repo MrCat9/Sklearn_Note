@@ -31,3 +31,7 @@ https://blog.csdn.net/u010159842/article/details/78624135
 StratifiedKFold 和 KFold 的比较 https://www.jianshu.com/p/c84818b56fa0
 
 sklearn.model_selection.KFold https://blog.csdn.net/kancy110/article/details/74910185
+
+#### 5_skimage
+
+skimage-图像基本操作 https://blog.csdn.net/wc781708249/article/details/78368825
