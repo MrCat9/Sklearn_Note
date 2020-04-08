@@ -35,3 +35,11 @@ sklearn.model_selection.KFold https://blog.csdn.net/kancy110/article/details/749
 #### 5_skimage
 
 skimage-图像基本操作 https://blog.csdn.net/wc781708249/article/details/78368825
+
+#### 6_马尔科夫链
+
+https://blog.csdn.net/bitcarmanlee/article/details/82819860
+
+https://www.cnblogs.com/skyme/p/4651331.html
+
+https://www.jianshu.com/p/a3572391a42d
