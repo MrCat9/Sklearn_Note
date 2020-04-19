@@ -43,3 +43,10 @@ https://blog.csdn.net/bitcarmanlee/article/details/82819860
 https://www.cnblogs.com/skyme/p/4651331.html
 
 https://www.jianshu.com/p/a3572391a42d
+
+#### 7_机器学习中的Stacking模型融合
+
+https://blog.csdn.net/xiao2cai3niao/article/details/80571021
+
+#### 8_
+
