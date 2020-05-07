@@ -48,5 +48,7 @@ https://www.jianshu.com/p/a3572391a42d
 
 https://blog.csdn.net/xiao2cai3niao/article/details/80571021
 
-#### 8_
+#### 8_XGBoost
+
+https://arxiv.org/pdf/1603.02754.pdf
 
