@@ -52,3 +52,7 @@ https://blog.csdn.net/xiao2cai3niao/article/details/80571021
 
 https://arxiv.org/pdf/1603.02754.pdf
 
+https://xgboost.readthedocs.io/en/latest/
+
+
+
