@@ -54,7 +54,7 @@ https://arxiv.org/pdf/1603.02754.pdf
 
 https://xgboost.readthedocs.io/en/latest/
 
-#### 9_sklearn中回归问题的评估方法
+#### 9_sklearn模型评估（分类Classification、聚类Clustering、回归Regression）
 
 https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
 
