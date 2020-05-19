@@ -54,5 +54,7 @@ https://arxiv.org/pdf/1603.02754.pdf
 
 https://xgboost.readthedocs.io/en/latest/
 
+#### 9_sklearn中回归问题的评估方法
 
+https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
 
