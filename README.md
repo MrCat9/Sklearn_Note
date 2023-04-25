@@ -126,3 +126,7 @@ score = metrics.silhouette_score(X, labels)
 [K-means聚类算法可视化](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 
 [DBSCAN算法可视化](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
+
+#### 15_常见的模型评估指标与方法
+
+[模型评估：常见的模型评估指标与方法大全、汇总](https://blog.csdn.net/Bluemoon17/article/details/124323666)
